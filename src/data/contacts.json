@@ -1,0 +1,30 @@
+[
+    {
+        "firstName": "Nhat Dinh",
+        "lastName": "Nguyen",
+        "email": "nhatdinh@UOT.ca",
+        "company": "University of Toronto",
+        "phone": 333444
+    },
+    {
+        "firstName": "Johny",
+        "lastName": "Deep",
+        "email": "johny@gmail.com",
+        "company": "Seneca",
+        "phone": 555666
+    },
+    {
+        "firstName": "Vandy",
+        "lastName": "Telout",
+        "email": "vandy@yahoo.net",
+        "company": "Lambton College",
+        "phone": 44444
+    },
+    {
+        "firstName": "Kitty",
+        "lastName": "Udeny",
+        "email": "kitty@gmail.com",
+        "company": "UofT",
+        "phone": 999666
+    }
+]
